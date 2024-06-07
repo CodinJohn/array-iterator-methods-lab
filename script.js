@@ -299,3 +299,6 @@ idx = comments.findIndex((comment) => {
 // Check your return value:
 console.log('Exercise 9 My Result: ', idx)
 console.log('Exercise 9 Correct Result: ', 3)
+
+
+// Cited: Collaberated with Anitra Paul, Samantha Beltran, Travis Neto, and assistance from Joshua Miller during Support sessions. 
